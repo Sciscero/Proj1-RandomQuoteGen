@@ -61,6 +61,13 @@ body {
   font-style: italic;
 }
 
+.tags {
+  font-size: 0.75em;
+  text-align: right;
+  margin-right: 6em;
+  margin-top: 5em;
+}
+
 .citation:before {
   content: ", ";
   font-style: normal;
